@@ -1,0 +1,28 @@
+name: CVS
+favicon: null
+layout_spectrum: 0.32856968487612903
+typography_spectrum: 0.2778311704751104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1268096137791872
+  lightness: 0.2901228542905301
+  saturation: 0.8147600986994803
+  rhythmicContrast: 0.17197073623538017
+purpose: []
