@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T12:41:31.124Z'
-dateModified: '2016-05-06T12:41:29.278Z'
+datePublished: '2016-05-06T12:41:49.862Z'
+dateModified: '2016-05-06T12:41:39.290Z'
 author:
   - name: ''
     url: ''
 title: PhD Journey
+sourcePath: _posts/2016-05-06-phd-journey.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-06-phd-journey.md
 url: phd-journey/index.html
 _type: Article
 
