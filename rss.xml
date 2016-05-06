@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CVS]]></title>
+        <description><![CDATA[CVS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 12:41:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PhD Journey]]></title>
+            <description><![CDATA[<article><h1>PhD Journey</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a28b489-c255-4a83-a514-7cdd01707079.jpg"></article>]]></description>
+            <link>undefinedphd-journey/index.html</link>
+            <guid isPermaLink="false">4b81d020-c6ea-4998-afb9-0fcd11af9095</guid>
+            <pubDate>Fri, 06 May 2016 12:41:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
