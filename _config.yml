@@ -1,28 +1,40 @@
-name: CVS
-favicon: null
-layout_spectrum: 0.32856968487612903
-typography_spectrum: 0.2778311704751104
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.328569684876129
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.1268096137791872
-  lightness: 0.2901228542905301
-  saturation: 0.8147600986994803
-  rhythmicContrast: 0.17197073623538017
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8147600986994803
+  brandStrength: 0.8684654
+  lightness: 0.2901228542905301
+  brandColors:
+    - '#00030D'
+    - '#7186A5'
+    - '#32332D'
+    - '#B8B8AC'
+    - '#800113'
+  rhythmicContrast: 0.1719707362353802
+typography_spectrum: 0.2778311704751104
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: CVS
