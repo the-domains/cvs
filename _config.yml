@@ -1,7 +1,7 @@
 name: CVS
 favicon: null
-layout_spectrum: 0.328569684876129
-typography_spectrum: 0.2778311704751104
+layout_spectrum: 0.10032
+typography_spectrum: 0.30363
 collections:
   - index:
       path: /
