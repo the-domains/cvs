@@ -1,7 +1,7 @@
 name: CVS
 favicon: null
-layout_spectrum: 0.10032
-typography_spectrum: 0.30363
+layout_spectrum: 0.1714
+typography_spectrum: 0.47145
 collections:
   - index:
       path: /
@@ -33,8 +33,8 @@ color:
     - '#32332D'
     - '#B8B8AC'
     - '#800113'
-  brandStrength: 0.5625
-  lightness: 0.2901228542905301
-  saturation: 0.625
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.9375
   rhythmicContrast: 0.1719707362353802
 purpose: []
